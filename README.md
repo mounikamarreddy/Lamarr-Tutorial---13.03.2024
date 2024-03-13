@@ -1,4 +1,5 @@
-# LAMARR NLP Workshop: Recent Trends in Large Language Models: Applications, Methodologies, and Future Directions
+# LAMARR NLP Workshop:
+## Recent Trends in Large Language Models: Applications, Methodologies, and Future Directions
 
 1. We will see the different prompt-based examples using the Flan-T5-base instruction model
 2. How to work on larger language models in your local machine
