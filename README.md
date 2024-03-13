@@ -2,10 +2,13 @@
 ## Recent Trends in Large Language Models: Applications, Methodologies, and Future Directions
 
 **Date:** March 13th, 2024
+
 **Time:** 10:30 AM – 03:30 PM
+
 **Location:** Friedrich-Hirzebruch-Allee 6, Room 0.107
 
 **Description:**
+
 This tutorial will discuss recent popular small and large language models (LLMs) and impart a practical understanding of how these state-of-the-art LLMs can be utilized across various NLP tasks. Specifically, we cover three interesting research directions: Interpretability of LLMs, Robustness of LLMs, and Bridging language on machines vs. language in the brain. Also, we focus on reviewing recent methodologies such as efficient prompting, in-context learning, instruction-tuning, and RAG, and demonstrate how these techniques can be integrated into various real-world applications.
 
 **Presenters:**
@@ -17,6 +20,10 @@ This tutorial will discuss recent popular small and large language models (LLMs)
 **Dr. Manish Gupta** is a Principal Applied Researcher at Microsoft, India. He is also an Adjunct Faculty at IIIT Hyderabad and a visiting faculty at the Indian School of Business (ISB).
 
 **Dr. Subba Reddy Oota** submitted his PhD thesis at Inria Bordeaux, France. He is about to join the postdoctoral position in collaboration with TU Berlin and UC Berkeley.
+
+<p align="center">
+  <img src="[https://github.com/caisa-lab/OpinionConv/blob/main/src-ipynb/High-level%20Overview%20of%20OpinionConv.png](https://github.com/mounikamarreddy/Lamarr-Tutorial---13.03.2024/blob/main/Schedule%20-%20LAMARR%20NLP%20Workshop.png)">
+</p>
 
 1. We will see the different prompt-based examples using the Flan-T5-base instruction model
 2. How to work on larger language models in your local machine
