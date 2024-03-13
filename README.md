@@ -21,11 +21,20 @@ This tutorial will discuss recent popular small and large language models (LLMs)
 
 **Dr. Subba Reddy Oota** submitted his PhD thesis at Inria Bordeaux, France. He is about to join the postdoctoral position in collaboration with TU Berlin and UC Berkeley.
 
+**Schedule:**
+
 <p align="center">
-  <img src="[https://github.com/caisa-lab/OpinionConv/blob/main/src-ipynb/High-level%20Overview%20of%20OpinionConv.png](https://github.com/mounikamarreddy/Lamarr-Tutorial---13.03.2024/blob/main/Schedule%20-%20LAMARR%20NLP%20Workshop.png)">
+  <img src="https://github.com/mounikamarreddy/Lamarr-Tutorial---13.03.2024/blob/main/Schedule%20-%20LAMARR%20NLP%20Workshop.png">
 </p>
 
+**Hands-on Hacking:**
 1. We will see the different prompt-based examples using the Flan-T5-base instruction model
 2. How to work on larger language models in your local machine
    LMStudio Link: https://lmstudio.ai/ -> You can download the LMStudio based on your OS requirements. 
-4. How to load the Mistral and Llama-2 model in Google Colab
+3. How to load the Mistral and Llama-2 model in Google Colab
+
+**Feedback on LAMARR NLP Workshop:**
+
+We would like to kindly ask you to take a 5-minute survey to help us organize the upcoming LAMARR NLP events better. Thank you!
+
+[Here is the survey](https://forms.gle/jswLcwjzNSdB3e7U8)
